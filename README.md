@@ -4,4 +4,4 @@ Language: Java
 
 Contributor: Yixuan Yang
 
-![A5068965-917C-456F-9AAF-FB2763B842F4_1_105_c](https://github.com/user-attachments/assets/e788a537-e482-44f1-ab34-9b323a3ddffe)
+![image](https://github.com/user-attachments/assets/a0841a78-f17b-4606-bb8c-739ded3cd8fe)
