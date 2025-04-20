@@ -1,4 +1,4 @@
-# CS102A Final Project (2021 Spring) - Minesweeper
+# CS102A Final Project (2021 Spring) - Minesweeper++
 
 Language: Java
 
